@@ -8,63 +8,70 @@ const menuItems = [
     description: "Сочные грузинские пельмени с мясом и бульоном",
     price: "450₽",
     category: "Основные блюда",
-    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/c6328e03-ef24-46d6-847b-7d2ac3723ded.jpg"
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/d825320f-17dd-4cc9-8b77-c27fd7442a0e.jpg"
   },
   {
     name: "Шашлык из баранины",
     description: "Маринованная баранина на углях с луком и зеленью",
     price: "650₽",
     category: "Основные блюда",
-    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/5dba8d10-7925-4bc1-abf0-5cbf7109d31e.jpg"
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/88072fd8-3763-46b0-999f-b34c3153067e.jpg"
   },
   {
     name: "Хачапури по-аджарски",
     description: "Лодочка из теста с сыром, маслом и яйцом",
     price: "380₽",
     category: "Выпечка",
-    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/e14a6db7-7be4-4a7a-a056-014f87ef5d9a.jpg"
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/47155b35-638f-4052-b4fa-64c942a509fd.jpg"
   },
   {
     name: "Долма",
     description: "Виноградные листья с рисом и мясом",
     price: "420₽",
-    category: "Основные блюда"
+    category: "Основные блюда",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/dd764cfa-66cc-452f-b00a-2121793389e5.jpg"
   },
   {
     name: "Люля-кебаб",
     description: "Рубленое мясо на шампуре с пряностями",
     price: "480₽",
-    category: "Основные блюда"
+    category: "Основные блюда",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/22478254-9693-4578-8a5f-e568aa5165fe.jpg"
   },
   {
-    name: "Харчо",
-    description: "Наваристый суп с говядиной и грецкими орехами",
-    price: "320₽",
-    category: "Супы"
-  },
-  {
-    name: "Пхали",
-    description: "Паштет из шпината с орехами и специями",
-    price: "280₽",
-    category: "Закуски"
-  },
-  {
-    name: "Чахохбили",
-    description: "Тушеная курица в томатном соусе с травами",
+    name: "Плов",
+    description: "Ароматный рис с бараниной, морковью и специями",
     price: "520₽",
-    category: "Основные блюда"
+    category: "Основные блюда",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/43c51119-04a7-4add-817b-0eeab9202b86.jpg"
   },
   {
-    name: "Лобио",
-    description: "Фасоль в соусе с кинзой и специями",
-    price: "260₽",
-    category: "Закуски"
+    name: "Лахмаджун",
+    description: "Тонкая лепешка с мясным фаршем и овощами",
+    price: "350₽",
+    category: "Выпечка",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/daccdab4-ccef-4300-bd1c-77c4c0d152d5.jpg"
   },
   {
-    name: "Чурчхела",
-    description: "Грузинская сладость из орехов и виноградного сока",
-    price: "180₽",
-    category: "Десерты"
+    name: "Хумус",
+    description: "Паштет из нута с кунжутной пастой и специями",
+    price: "280₽",
+    category: "Закуски",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/1f4bbcee-7988-498b-bdb2-8290ada23d9c.jpg"
+  },
+  {
+    name: "Мясное ассорти",
+    description: "Шашлык, люля-кебаб и лаваш с зеленью",
+    price: "890₽",
+    category: "Основные блюда",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/c55c42b8-c0ad-447e-a8cf-121d4d520f3e.jpg"
+  },
+  {
+    name: "Пахлава",
+    description: "Слоеное тесто с медом и орехами",
+    price: "220₽",
+    category: "Десерты",
+    image: "https://cdn.poehali.dev/projects/f9f206f4-f5a4-4da7-bbf6-083204360568/files/22b8c1f0-43ea-44a1-8b98-c10ba99a1500.jpg"
   }
 ];
 
